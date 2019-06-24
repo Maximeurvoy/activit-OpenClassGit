@@ -1,1 +1,3 @@
 Ceci est le premier fichier pour l'exercice.
+
+Pour l'exercice j'effectue un rajout.
